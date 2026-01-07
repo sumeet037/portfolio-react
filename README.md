@@ -75,7 +75,7 @@ Add `.env` to `.gitignore`.
 
 ## 📸 Preview
 
-Live Demo: [[https://your-portfolio-url](https://your-portfolio-url)](https://sumeetpal.netlify.app/)
+Live Demo: https://sumeetpal.netlify.app/
 
 ---
 
